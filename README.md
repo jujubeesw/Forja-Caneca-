@@ -11,7 +11,7 @@
 <div class="menu-item"><span>Caneca do Taverneiro — Chope artesanal 300ml</span><strong>R$ 18</strong></div>
 <div class="menu-item"><span>Licor da Avó — Shot aromático</span><strong>R$ 14</strong></div>
 <div class="menu-item"><span>Enrolado de Cordeiro — 2 unidades</span><strong>R$ 28</strong></div>
-<div class="menu-item"><span>Tábua rústica (queijo, embutidos)</span><strong>R$ 46</strong></div>
+<div class="menu-item"><span>Tábua rústica (queijo, embutidos)</span><strong>R$ 26</strong></div>
 <div class="menu-item"><span>Sopa do Dia</span><strong>R$ 16</strong></div>
 </div>
 <p style="margin-top:12px;font-size:14px;opacity:0.9">Cardápio pensado para ser compartilhado. Ingredientes locais e preparos artesanais.</p>
